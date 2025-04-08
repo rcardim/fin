@@ -1,0 +1,16 @@
+# Quarto render outputs
+*.pdf
+*.docx
+*.odt
+*.ipynb
+*.md
+
+# Quarto cache and intermediate files
+.quarto/
+
+# Quarto-generated images
+docs/*_figures/
+docs/*_files/
+
+# Jupyter/IPython checkpoints (often created when editing .qmd notebooks)
+.ipynb_checkpoints/
